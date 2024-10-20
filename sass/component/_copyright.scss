@@ -1,0 +1,15 @@
+#copyright{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: $black;
+    .copyright-text{
+        p{
+            @include font(17px, 400);
+            color: $white;
+        }
+        a{
+            color: $primary;
+            font-weight: 600;
+        }
+    }
+}

@@ -1,0 +1,1594 @@
+/* extra-extra-large device start */
+@media (min-width:1400px){
+    /* nothing to be modified in this device */
+}
+/* extra-extra-large device end */
+
+/* extra-large device start */
+@media (min-width:1200px) and (max-width:1399.99px){
+    /* navbar part start */
+    nav ul li a {
+        font-size: 15px !important;
+    }
+    /* navbar part end */
+
+    /* banner part start */
+    .banner .text .info h1 {
+        font-size: 56px;
+    }
+    /* banner part end */
+
+    /* about part start */
+    .about-us .about-heading h2 {
+        font-size: 45px;
+    }
+    /* about part end */
+
+    /* ///////////// cockroach page start //////////////////// */
+    #cockroach_details .categories_item .categories {
+        margin-right: 0;
+    }
+    #cockroach_details .categories_item .categories .categories-title {
+        font-size: 30px;
+        padding-left: 21px;
+
+    }
+    
+    .cockroach_body_details{
+        margin-top: 30px;
+    }
+    #cockroach_details .categories_item .categories .categories-content ul li a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        color: #0C1529;
+        font-weight: 500;
+    }
+    
+    
+    /* ///////////// cockroach page end //////////////////// */
+}
+/* extra-large device end */
+
+/* large device start */
+@media (min-width:992px) and (max-width:1199.99px){
+    /* banner part start */
+    .banner {
+        padding: 200px 0 110px 0;
+    }
+
+    .banner .text .info h1 {
+        font-size: 53px;
+        text-align: center;
+        padding-bottom: 33px;
+    }
+
+    .banner .text .info ul li {
+        line-height: 36px;
+    }
+
+    .image-box {
+        margin-top: 30px;
+    }
+
+    .banner .image-box .image img {
+        left: 0;
+        transform: scale(0.7);
+    }
+
+    .banner .image-box .image img {
+        left: 27px;
+        bottom: -129px;
+        transform: scale(0.6);
+    }
+
+    .banner .image-box .image {
+        width: 450px;
+        height: 450px;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+        background-position: center !important;
+        margin-left: 0;
+    }
+    
+    /* .banner .image-box .shape-1 {
+        display: none;
+    }
+    .banner .image-box .shape-2 {
+        display: none;
+    } */
+    .banner .image-box .call {
+        top: 130px;
+        right: -55px;
+        padding: 8px 27px;
+    }
+   
+    /* banner part end */
+
+    /* about us part start */
+    /* .about-us {
+        padding-top: 20px;
+    } */
+
+    .about-us .about-heading {
+        padding: 0 0;
+        padding-bottom: 33px;
+    }
+
+    .about-us .about-heading h2 {
+        font-size: 44px;
+    }
+
+    /* .about-us .info p {
+        font-size: 17px;
+        line-height: 29px;
+    } */
+
+    .about-us .button {
+        padding-top: 52px;
+    }
+
+    .about-us .button a {
+        /* width: 190px;
+        padding: 14px 0;
+        margin-bottom: 20px; */
+        font-size: 19px;
+    }
+
+    .about-us .button a:hover {
+        transform: scale(1.1);
+    }
+
+    /* about us part end */
+
+    /* service part start */
+    .services {
+        padding-top: 80px;
+    }
+
+    .services .services-bg {
+        padding-top: 74px;
+    }
+
+    /* .common-title p {
+        font-size: 18px;
+    } */
+
+    .common-title h3 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+
+    .services .services-bg .services-item .text a {
+        font-size: 19px;
+    }
+
+    .services .services-bg .button .tem-btn {
+        min-width: 191px;
+    }
+
+    /* service part end */
+
+    /* why choose us part start */
+    .why-chose-us .image a i {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+    .why-chose-us .image .email a {
+        right: -30px;
+        bottom: 140px;
+    }
+    /* why choose us part end */
+
+    /* service video part start */
+    .services-video .video-item .overlay h4 {
+        font-size: 27px;
+    }
+    /* service video part end */
+
+    /* query part start */
+    .query .query-bg .text h4 {
+        font-size: 39px;
+        line-height: 60px;
+    }
+    /* query part end */
+
+    /* footer part start */
+    #footer .footer-head .head-text p {
+        font-size: 12px;
+    }
+    #footer .footer-head .head-text span {
+        font-size: 16px;
+    }
+    /* footer part end */
+
+    /* ///////////// home page end //////////////////// */
+
+    /* ///////////// pestcontrolservice page start //////////////////// */
+    /* bread-crumb part start */
+    .bread-crumb .bread-crumb-bg .text h1 {
+        font-size: 56px;
+        margin-bottom: 13px;
+    }
+
+    /* bread-crumb part end */
+
+    /* ///////////// pestcontrolservice page end //////////////////// */
+
+    /* ///////////// cockroach page start //////////////////// */
+    #cockroach_details .categories_item .categories {
+        margin-right: 0;
+    }
+    #cockroach_details .categories_item .categories .categories-title {
+        font-size: 25px;
+        padding-left: 21px;
+
+    }
+    
+    .cockroach_body_details{
+        margin-top: 30px;
+    }
+    #cockroach_details .categories_item .categories .categories-content ul li a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        color: #0C1529;
+        font-weight: 500;
+    }
+    #cockroach_details .categories_item .categories .categories-content ul li a i {
+        margin-left: 12px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-head h3 {
+        font-size: 25px;
+        margin-bottom: 23px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-text .text-top {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-text .text-bottom {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    /* .body{
+        margin-bottom: 30px;
+    }
+    
+    .body:last-child{
+        margin-bottom: 0;
+    } */
+    .text_middle{
+        margin-top: 27px;
+    }
+    #cockroach_details .cockroach_body_details .text_middle .cock-text {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    #cockroach_details .cockroach_body_details .text_middle .cock-para {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .defaulting_head h2 {
+        font-size: 23px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .defaulting_head p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_summary h5 {
+        font-size: 23px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_summary p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_footer h5 {
+        font-size: 23px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_footer p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    /* ///////////// cockroach page end //////////////////// */
+    
+
+}
+/* large device end */
+
+
+/* medium device start */
+@media (min-width:768px) and (max-width:991.99px) {
+
+    /* ///////////// home page start //////////////////// */
+    /* navbar part start */
+    .navbar-brand img {
+        transform: scale(0.8) !important;
+    }
+
+    /* navbar part end */
+
+    /* banner part start */
+    .banner {
+        padding: 200px 0 110px 0;
+    }
+
+    .banner .text .info h1 {
+        font-size: 56px;
+        text-align: center;
+        padding-bottom: 33px;
+    }
+
+    .banner .text .info ul li {
+        line-height: 36px;
+    }
+
+    .image-box {
+        margin-top: 30px;
+    }
+
+    .banner .image-box .image img {
+        left: 0;
+        transform: scale(0.7);
+    }
+
+    .banner .image-box .image img {
+        left: 6px;
+        bottom: -132px;
+        transform: scale(0.6);
+    }
+
+    .banner .image-box .image {
+        width: 400px;
+        height: 400px;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+        background-position: center !important;
+        margin-left: 75px;
+    }
+    
+    .banner .image-box .shape-1 {
+        display: none;
+    }
+    
+    .banner .image-box .call {
+        display: none;
+    }
+
+    /* banner part end */
+
+    /* about us part start */
+    .about-us {
+        padding-top: 20px;
+    }
+
+    .about-us .about-heading {
+        padding: 0 0;
+        padding-bottom: 30px;
+    }
+
+    .about-us .about-heading h2 {
+        font-size: 40px;
+    }
+
+    .about-us .info p {
+        font-size: 17px;
+        line-height: 29px;
+    }
+
+    .about-us .button {
+        padding-top: 46px;
+    }
+
+    .about-us .button a {
+        width: 190px;
+        padding: 14px 0;
+        margin-bottom: 20px;
+        font-size: 17px;
+    }
+
+    .about-us .button a:hover {
+        transform: scale(1.1);
+    }
+
+    /* about us part end */
+
+    /* service part start */
+    .services {
+        padding-top: 80px;
+    }
+
+    .services .services-bg {
+        padding-top: 74px;
+    }
+
+    /* .common-title p {
+        font-size: 18px;
+    } */
+
+    .common-title h3 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+
+    .services .services-bg .services-item .text a {
+        font-size: 19px;
+    }
+
+    .services .services-bg .button .tem-btn {
+        min-width: 195px;
+    }
+
+    /* service part end */
+
+    /* why choose us part start */
+    .why-chose-us {
+        padding-top: 65px;
+    }
+
+    
+
+    .why-chose-us .text .info-box .text {
+        padding-left: 87px;
+    }
+
+    .why-chose-us .text .info-box .text h4 {
+        font-size: 20px;
+    }
+
+    .why-chose-us .image {
+        margin-top: 30px;
+    }
+
+    .why-chose-us .image .email a {
+        right: -34px;
+        bottom: 300px;
+    }
+
+    .why-chose-us .image a i {
+        width: 78px;
+        height: 78px;
+        line-height: 78px;
+    }
+
+    .why-chose-us .image a {
+        font-size: 29px;
+    }
+
+    .why-chose-us .image .phone a {
+        bottom: -29px;
+        left: 252px;
+    }
+
+    .why-chose-us .image {
+        transform: scale(0.8);
+    }
+
+    /* why choose us part end */
+
+    /* service video part start */
+    .services-video .video-item {
+        margin-bottom: 30px;
+    }
+
+    .services-video .video-item .overlay h4 {
+        font-size: 29px;
+    }
+
+    .services-video .video-item .overlay .video-btn a {
+        height: 73px;
+        width: 73px;
+        font-size: 38px;
+        line-height: 73px;
+    }
+
+    /* service video us part end */
+
+    /* call for query part start */
+    .query {
+        padding-top: 30px;
+    }
+
+    .query .query-bg {
+        min-height: 370px;
+        padding: 100px 0 50px 0;
+    }
+
+    .query .query-bg .text h4 {
+        font-size: 35px;
+        line-height: 54px;
+    }
+
+    .query .query-bg .text a {
+        font-size: 14px;
+        padding: 16px 28px;
+        margin-top: 32px;
+    }
+
+    .query .query-bg .text .shape-1 {
+        display: none;
+    }
+    .query .query-bg .text .shape-2 {
+        display: none;
+    }
+
+    /* call for query part end */
+
+    /* footer part start */
+    #footer .footer-head {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer-head .head-icon {
+        text-align: center;
+        margin-top: 0;
+    }
+
+    #footer .footer-item {
+        padding-top: 44px;
+    }
+
+    #footer .footer-item .footer_left_para p {
+        padding-right: 4px;
+    }
+
+    #footer .footer-item .footer_middle_list ul li {
+        padding-bottom: 17px;
+    }
+
+    #footer .footer_social .footer_details .f_social_details p {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    #footer .footer_social .footer_details .f-social-icon a i {
+        font-size: 18px;
+        margin-right: 17px;
+    }
+
+    #footer .footer-head .head-text {
+        border-left: none;
+        text-align: center;
+    }
+
+    /* footer part end */
+
+    /* copyright part start */
+    .text-end {
+        margin-top: -30px;
+    }
+    /* copyright part end */
+
+    /* ///////////// home page end //////////////////// */
+
+    /* ///////////// pestcontrolservice page start //////////////////// */
+
+    /* bread-crumb part start */
+    .bread-crumb .bread-crumb-bg .text h1 {
+        font-size: 46px;
+        margin-bottom: 13px;
+    }
+
+    .bread-crumb .bread-crumb-bg .text ul li {
+        font-size: 14px;
+    }
+
+    .bread-crumb .bread-crumb-bg {
+        padding-bottom: 103px;
+        padding-top: 103px;
+    }
+
+    /* bread-crumb part end */
+
+    /* ///////////// pestcontrolservice page end //////////////////// */
+
+    /* ///////////// cockroach page start //////////////////// */
+    #cockroach_details .categories_item .categories {
+        margin-right: 0;
+    }
+    #cockroach_details .categories_item .categories .categories-title {
+        font-size: 24px;
+    }
+    .cockroach_body_details{
+        margin-top: 30px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-head h3 {
+        font-size: 25px;
+        margin-bottom: 23px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-text .text-top {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-text .text-bottom {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .body{
+        margin-bottom: 30px;
+    }
+    
+    .body:last-child{
+        margin-bottom: 0;
+    }
+    .text_middle{
+        margin-top: 30px;
+    }
+    #cockroach_details .cockroach_body_details .text_middle .cock-text {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .text_middle .cock-para {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .defaulting_head h2 {
+        font-size: 21px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .defaulting_head p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_summary h5 {
+        font-size: 21px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_summary p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_footer h5 {
+        font-size: 21px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_footer p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    /* ///////////// cockroach page end //////////////////// */
+
+    /* ///////////// contact page start //////////////////// */
+    #contact-page .contact-top {
+        padding: 40px 68px;
+    }
+
+    #contact-page .contact-top .contact-info .icon i {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 25px;
+    }
+
+    .contact-info {
+        margin: auto;
+        /* justify-content: center; */
+        margin-bottom: 30px;
+    }
+
+    /* ///////////// contact page end //////////////////// */
+}
+
+/* medium device end */
+
+/* small device start */
+@media (min-width:576px) and (max-width:767.99px) {
+
+    /* ///////////// home page start //////////////////// */
+    /* navbar part start */
+    .navbar-brand img {
+        transform: scale(0.7) !important;
+    }
+
+    /* navbar part end */
+
+    /* banner part start */
+    .banner {
+        padding: 190px 0 100px 0;
+    }
+
+    .banner .text .info h1 {
+        font-size: 43px;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .banner .text .info ul li {
+        line-height: 34px;
+        padding-left: 28px;
+    }
+
+    .image-box {
+        margin-top: 30px;
+    }
+
+    .banner .image-box .image img {
+        left: 0;
+        transform: scale(0.7);
+    }
+
+    .banner .image-box .video {
+        padding: 12px 26px;
+    }
+
+    .banner .image-box .image img {
+        left: -27px;
+        bottom: -129px;
+        transform: scale(0.6);
+    }
+
+    .banner .image-box .image {
+        width: 350px;
+        height: 350px;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+        background-position: center !important;
+        margin-left: 75px;
+    }
+
+    .banner .image-box .shape-1 {
+        display: none;
+    }
+    .banner .image-box .shape-2 {
+        display: none;
+    }
+
+    .banner .image-box .call {
+        display: none;
+    }
+
+    .banner .image-box .video {
+        display: none;
+    }
+
+    /* banner part end */
+
+    /* about us part start */
+    .about-us {
+        padding-top: 0;
+    }
+
+    .about-us .about-heading {
+        padding: 0 0;
+        padding-bottom: 30px;
+    }
+
+    .about-us .about-heading h2 {
+        font-size: 30px;
+        line-height: 37px;
+    }
+
+    .about-us .info p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    .about-us .button {
+        padding-top: 36px;
+    }
+
+    .about-us .button a {
+        width: 185px;
+        padding: 12px 0;
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+
+    .about-us .button a:hover {
+        transform: scale(1.1);
+    }
+
+    /* about us part end */
+
+    /* service part start */
+    .services {
+        padding-top: 80px;
+    }
+
+    .services .services-bg {
+        padding-top: 60px;
+    }
+
+    .common-title p {
+        font-size: 18px;
+    }
+
+    .common-title h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .services .services-bg .services-item .text a {
+        font-size: 17px;
+        padding: 26px;
+    }
+
+    .services .services-bg .button .tem-btn {
+        padding: 0px 14px;
+        min-width: 175px;
+        line-height: 48px;
+    }
+
+    /* service part end */
+
+    /* why choose us part start */
+    .why-chose-us {
+        padding-top: 65px;
+    }
+
+    .why-chose-us .text .info-box {
+        width: 100%;
+        padding: 30px 0;
+        margin-bottom: 38px;
+    }
+
+    .why-chose-us .text .info-box .icon {
+        left: 19px;
+    }
+
+    .why-chose-us .text .info-box .icon i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 19px;
+    }
+
+    .why-chose-us .text .info-box .text {
+        padding-left: 87px;
+    }
+
+    .why-chose-us .text .info-box .text h4 {
+        font-size: 20px;
+    }
+
+    .why-chose-us .image {
+        margin-top: 30px;
+    }
+
+    .why-chose-us .image .email a {
+        right: -34px;
+        bottom: 300px;
+    }
+
+    .why-chose-us .image a i {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+    }
+
+    .why-chose-us .image a {
+        font-size: 25px;
+    }
+
+    /* .services-video .video-item .overlay h4 {
+        font-size: 22px;
+    } */
+
+    .why-chose-us .image .phone a {
+        bottom: -29px;
+        left: 194px;
+    }
+
+    /* why choose us part end */
+
+    /* service video part start */
+    .services-video .video-item {
+        margin-bottom: 30px;
+    }
+
+    .services-video .video-item .overlay h4 {
+        font-size: 25px;
+    }
+
+    .services-video .video-item .overlay .video-btn a {
+        height: 70px;
+        width: 70px;
+        font-size: 35px;
+        line-height: 70px;
+    }
+
+    /* service video us part end */
+
+    /* call for query part start */
+    .query {
+        padding-top: 20px;
+    }
+
+    .query .query-bg {
+        min-height: 370px;
+        padding: 100px 0 50px 0;
+    }
+
+    .query .query-bg .text h4 {
+        font-size: 27px;
+        line-height: 42px;
+    }
+
+    .query .query-bg .text a {
+        font-size: 14px;
+        padding: 16px 28px;
+        margin-top: 32px;
+    }
+
+    .query .query-bg .text .shape-1 {
+        display: none;
+    }
+    .query .query-bg .text .shape-2 {
+        display: none;
+    }
+
+    /* call for query part end */
+
+    /* faq page start */
+    .faq-page {
+        padding: 65px 0;
+    }
+
+    .faq-page .faq-body {
+        padding: 20px 12px;
+    }
+
+    .faq-page .faq-body .accordion-button {
+        font-size: 19px;
+    }
+
+    /* faq page end */
+
+    /* textimonial part start */
+    #testimonial {
+        padding-bottom: 88px;
+    }
+
+    .common-title {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #testimonial .up-para {
+        padding: 20px;
+        bottom: -60px;
+    }
+
+    #testimonial .up-para .para-img img {
+        width: 70px;
+        height: 70px;
+    }
+
+    /* textimonial part end */
+
+    /* footer part start */
+    #footer .footer-head {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer-head .head-icon {
+        text-align: center;
+        margin-top: 0;
+    }
+
+    #footer .footer-item {
+        padding-top: 44px;
+    }
+
+    #footer .footer-item .footer_left_para p {
+        padding-right: 4px;
+    }
+
+    #footer .footer-item .footer_middle_list ul li {
+        padding-bottom: 17px;
+    }
+
+    #footer .footer_social .footer_details .f_social_details p {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    #footer .footer_social .footer_details .f-social-icon a i {
+        font-size: 18px;
+        margin-right: 17px;
+    }
+
+    #footer .footer-head .head-text {
+        border-left: none;
+        text-align: center;
+    }
+
+    /* footer part end */
+
+    /* copyright part start */
+    .copyright-text {
+        text-align: center !important;
+    }
+
+    .text-end {
+        margin-top: 20px;
+    }
+
+    /* copyright part end */
+
+
+    /* ///////////// home page end //////////////////// */
+
+    /* ///////////// pestcontrolservice page start //////////////////// */
+
+    /* bread-crumb part start */
+    .bread-crumb .bread-crumb-bg .text h1 {
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+
+    .bread-crumb .bread-crumb-bg .text ul li {
+        font-size: 14px;
+    }
+
+    .bread-crumb .bread-crumb-bg {
+        padding-bottom: 90px;
+        padding-top: 90px;
+    }
+
+    /* bread-crumb part end */
+
+    /* ///////////// pestcontrolservice page end //////////////////// */
+
+    /* ///////////// cockroach page start //////////////////// */
+    #cockroach_details .categories_item .categories {
+        margin-right: 0;
+    }
+    #cockroach_details .categories_item .categories .categories-title {
+        font-size: 22px;
+    }
+    .cockroach_body_details{
+        margin-top: 30px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-head h3 {
+        font-size: 23px;
+        margin-bottom: 17px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-text .text-top {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-text .text-bottom {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .body{
+        margin-bottom: 30px;
+    }
+    
+    .body:last-child{
+        margin-bottom: 0;
+    }
+    .text_middle{
+        margin-top: 30px;
+    }
+    #cockroach_details .cockroach_body_details .text_middle .cock-text {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .text_middle .cock-para {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .defaulting_head h2 {
+        font-size: 20px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .defaulting_head p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_summary h5 {
+        font-size: 20px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_summary p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_footer h5 {
+        font-size: 20px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_footer p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    /* ///////////// cockroach page end //////////////////// */
+
+    /* ///////////// contact page start //////////////////// */
+    #contact-page .contact-top {
+        padding: 40px 68px;
+    }
+
+    #contact-page .contact-top .contact-info .icon i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    .contact-info {
+        margin: auto;
+        /* justify-content: center; */
+        margin-bottom: 30px;
+    }
+
+    /* ///////////// contact page end //////////////////// */
+
+    
+
+}
+
+/* small device end */
+
+/* extra small device start */
+@media (max-width:575.98px) {
+
+    /* ///////////// home page start //////////////////// */
+
+    /* navbar part start */
+    .navbar-brand img {
+        transform: scale(0.7) !important;
+    }
+
+    /* navbar part end */
+
+    /* banner part start */
+    .banner {
+        padding: 145px 0 100px 0;
+    }
+
+    .banner .text .info h1 {
+        font-size: 27px;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .banner .text .info ul li {
+        line-height: 34px;
+        padding-left: 28px;
+    }
+
+    .image-box {
+        margin-top: 90px;
+    }
+
+    .banner .image-box .image img {
+        left: -67px;
+        bottom: -121px;
+        transform: scale(0.6);
+    }
+
+    .banner .image-box .image {
+        width: 300px;
+        height: 300px;
+        /* background: url(images/banner-img-bg.jpg); */
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+        background-position: center !important;
+    }
+
+    .banner .image-box .shape-1 {
+        display: none;
+    }
+    .banner .image-box .shape-2 {
+        display: none;
+    }
+
+    .banner .image-box .call {
+        display: none;
+    }
+
+    .banner .image-box .video {
+        display: none;
+    }
+
+    /* banner part end */
+
+    /* about us part start */
+    .about-us {
+        padding-top: 0;
+    }
+
+    .about-us .about-heading {
+        padding: 0 0;
+        padding-bottom: 30px;
+    }
+
+    .about-us .about-heading h2 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+
+    .about-us .info p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    .about-us .button {
+        padding-top: 36px;
+    }
+
+    .about-us .button a {
+        width: 187px;
+        padding: 12px 0;
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+
+    .about-us .button a:hover {
+        transform: scale(1.1);
+    }
+
+    /* about us part end */
+
+    /* service part start */
+    .services {
+        padding-top: 75px;
+    }
+
+    .services .services-bg {
+        padding-top: 52px;
+        /* padding-bottom: 50px; */
+    }
+
+    .common-title p {
+        font-size: 16px;
+    }
+
+    .common-title h3 {
+        font-size: 20px;
+        line-height: 31px;
+    }
+
+    .services .services-bg .services-item .text a {
+        font-size: 16px;
+        padding: 27px;
+    }
+
+    .services .services-bg .button .tem-btn {
+        padding: 0px 10px;
+        min-width: 165px;
+        line-height: 46px;
+    }
+
+    /* service part end */
+
+    /* why choose us part start */
+    .why-chose-us {
+        padding-top: 53px;
+    }
+
+    .why-chose-us .text .info-box {
+        width: 100%;
+        padding: 30px 0;
+        margin-bottom: 30px;
+    }
+
+    .why-chose-us .text .info-box .icon {
+        left: 18px;
+    }
+
+    .why-chose-us .text .info-box .icon i {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+
+    .why-chose-us .text .info-box .text {
+        padding-left: 80px;
+    }
+
+    .why-chose-us .text .info-box .text h4 {
+        font-size: 19px;
+    }
+
+    .why-chose-us .image {
+        margin-top: 30px;
+    }
+
+    .why-chose-us .image .email a {
+        right: -18px;
+    }
+
+    .why-chose-us .image a i {
+        width: 65px;
+        height: 65px;
+        line-height: 65px;
+    }
+
+    .why-chose-us .image a {
+        font-size: 25px;
+    }
+
+    .why-chose-us .image .phone a {
+        bottom: -29px;
+    }
+    .why-chose-us .image .shape-1 {
+        display: none;
+    }
+    .why-chose-us .image .shape-2 {
+        display: none;
+    }
+
+    /* why choose us part end */
+
+    /* service video part start */
+    .services-video .video-item {
+        margin-bottom: 30px;
+    }
+
+    .services-video .video-item .overlay h4 {
+        font-size: 22px;
+    }
+
+    .services-video .video-item .overlay .video-btn a {
+        height: 70px;
+        width: 70px;
+        font-size: 35px;
+        line-height: 70px;
+    }
+
+    /* service video us part end */
+
+    /* call for query part start */
+    .query {
+        padding-top: 0;
+    }
+
+    .query .query-bg {
+        min-height: 370px;
+        padding: 100px 0 50px 0;
+    }
+
+    .query .query-bg .text h4 {
+        font-size: 21px;
+        line-height: 35px;
+    }
+
+    .query .query-bg .text a {
+        font-size: 14px;
+        padding: 16px 28px;
+        margin-top: 32px;
+    }
+
+    .query .query-bg .text .shape-1 {
+        display: none;
+    }
+    .query .query-bg .text .shape-2 {
+        display: none;
+    }
+
+    /* call for query part end */
+
+    /* faq page start */
+    .faq-page {
+        padding: 50px 0;
+    }
+
+    .faq-page .faq-body {
+        padding: 20px 0;
+    }
+
+    .faq-page .faq-body .accordion-button {
+        font-size: 17px;
+    }
+
+    /* faq page end */
+
+    /* textimonial part start */
+    #testimonial {
+        padding-bottom: 80px;
+    }
+
+    .common-title {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #testimonial .review-left {
+        padding: 30px 25px 50px;
+    }
+
+    #testimonial .up-para {
+        padding: 20px;
+        bottom: -60px;
+    }
+
+    #testimonial .up-para .para-img img {
+        width: 70px;
+        height: 70px;
+    }
+
+    /* textimonial part end */
+
+    /* footer part start */
+    #footer .footer-head {
+        /* border: 1px solid #ffffff;
+        padding: 20px 0;
+        border-bottom: 5px solid #21c58e; */
+        margin-bottom: 30px;
+    }
+
+    #footer .footer-item {
+        padding-top: 40px;
+    }
+
+    #footer .footer-item .footer_left_para p {
+        padding-right: 4px;
+    }
+
+    #footer .footer-item .footer_middle_list ul li {
+        padding-bottom: 17px;
+    }
+
+    #footer .footer_social .footer_details .f_social_details p {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    #footer .footer_social .footer_details .f-social-icon a i {
+        font-size: 18px;
+        margin-right: 17px;
+    }
+
+    #footer .footer-head .head-text span {
+        font-size: 18px;
+    }
+
+    #footer .footer-head .head-text {
+        border-left: none;
+        text-align: center;
+    }
+
+    /* footer part end */
+
+    /* copyright part start */
+    .copyright-text {
+        text-align: center !important;
+    }
+
+    .text-end {
+        margin-top: 20px;
+    }
+
+    /* copyright part end */
+
+    /* ///////////// home page end //////////////////// */
+
+    /* ///////////// pestcontrolservice page start //////////////////// */
+
+    /* bread-crumb part start */
+    .bread-crumb .bread-crumb-bg .text h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .bread-crumb .bread-crumb-bg .text ul li {
+        font-size: 14px;
+    }
+
+    .bread-crumb .bread-crumb-bg {
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
+
+    /* bread-crumb part end */
+
+    /* pagination part start */
+    .pagination {
+        margin-top: 22px;
+        margin-bottom: 25px;
+        justify-content: center !important;
+    }
+
+    .pagination ul li.arrow {
+        width: 29px;
+        height: 29px;
+        line-height: 29px;
+        margin: 0 0;
+    }
+
+    .pagination ul li.mid-pagi {
+        padding: 0 9px;
+    }
+
+    /* pagination part end */
+
+    /* ///////////// pestcontrolservice page end //////////////////// */
+
+    /* ///////////// cleaningservice page start //////////////////// */
+    .cleaning-services {
+        padding-top: 0px !important;
+    }
+
+    /* ///////////// cleaningservice page end //////////////////// */
+
+    /* ///////////// cockroach page start //////////////////// */
+    #cockroach_details .categories_item .categories {
+        margin-right: 0;
+    }
+    #cockroach_details .categories_item .categories .categories-title {
+        font-size: 22px;
+    }
+    .cockroach_body_details{
+        margin-top: 30px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-head h3 {
+        font-size: 23px;
+        margin-bottom: 17px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-text .text-top {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_summary .cockroach-text .text-bottom {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .body{
+        margin-bottom: 30px;
+    }
+    
+    .body:last-child{
+        margin-bottom: 0;
+    }
+    .text_middle{
+        margin-top: 30px;
+    }
+    #cockroach_details .cockroach_body_details .text_middle .cock-text {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .text_middle .cock-para {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .defaulting_head h2 {
+        font-size: 20px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .defaulting_head p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_summary h5 {
+        font-size: 20px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_summary p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_footer h5 {
+        font-size: 20px;
+    }
+    #cockroach_details .cockroach_body_details .cockroach_defaulting .deafaulting_footer p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    /* ///////////// cockroach page end //////////////////// */
+
+    /* ///////////// contact page start //////////////////// */
+    #contact-page .contact-top {
+        border-radius: 15px;
+        padding: 30px 10px;
+    }
+
+    #contact-page .contact-top .contact-info .icon i {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 20px;
+    }
+
+    .contact-info {
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    /* ///////////// contact page end //////////////////// */
+
+    @media (min-width:540px) and (max-width:575.99px) {
+        .why-chose-us .image .phone a {
+            bottom: -29px;
+        }
+
+    }
+}
+
+/* extra small device end */

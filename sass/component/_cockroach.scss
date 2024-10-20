@@ -1,0 +1,195 @@
+#cockroach_details {
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    .categories_item {
+        .categories {
+            box-shadow: 0px 0px 25px 0px rgba(0,0,0,0.1);
+            background-color: $white;
+            border-radius: 5px;
+            margin-right: 30px;
+
+
+            .categories-title{
+                font-size: 30px;
+                color: #543724;
+                padding-left: 50px;
+                padding-top: 20px;
+                padding-bottom: 10px;
+            }
+
+            .categories-content{
+                ul{
+                    li{
+                       a{
+                        padding-top: 10px;
+                        padding-bottom: 10px;
+                        padding-left: 40px;
+                        color: $black;
+                        font-weight: 500;
+
+                        i{
+                            margin-left: 45px;
+                        }
+                       }
+                       .text{
+                        color: $white;
+                       }
+
+                       &:last-child{
+                        a{
+                            margin-bottom: 30px;
+                        }
+                       }
+                    }
+                    .active{
+                        background-color: $primary;
+                    }
+                }
+            }
+        }
+
+    }
+
+    .cockroach_body_details{        
+        .cockroach_summary {
+            .cockroach-head {
+                h3 {
+                    font-size: 30px;
+                    color: $black;
+                    margin-bottom: 30px;
+                }
+            }
+    
+            .cockroach-text {
+                .text-top {
+                    font-family: 'Poppins', sans-serif;
+                    @include font(18px, 400);
+                    color: #808080;
+                    line-height: 28px;
+                    margin-bottom: 20px;
+                }
+    
+                .text-bottom {
+                    font-family: 'Poppins', sans-serif;
+                    @include font(18px, 400);
+                    color: #808080;
+                    line-height: 28px;
+                    margin-bottom: 20px;
+                }
+            }
+
+        }
+
+        .text_middle{
+            .cock-text{
+                font-family: 'Poppins', sans-serif;
+                @include font(18px, 400);
+                color: #808080;
+                line-height: 28px;
+                margin-bottom: 20px;
+            }
+            .cock-para{
+                font-family: 'Poppins', sans-serif;
+                @include font(18px, 400);
+                color: #808080;
+                line-height: 28px;
+                margin-bottom: 20px;
+            }
+        }
+
+        .cockroach_defaulting{
+            .defaulting_head{
+                h2{
+                    font-size: 26px;
+                    margin-bottom: 15px;
+                    color: $black;
+                }
+                p{
+                    font-family: 'Poppins', sans-serif;
+                    @include font(18px, 400);
+                    color: #808080;
+                    line-height: 28px;
+                    margin-bottom: 20px;
+                }
+            }
+
+            .deafaulting_summary{
+                h5{
+                    font-size: 23px;
+                    margin-bottom: 15px;
+                    color: $black;
+                }
+                p{
+                    font-family: 'Poppins', sans-serif;
+                    @include font(18px, 400);
+                    color: #808080;
+                    line-height: 28px;
+                    margin-bottom: 20px;
+                }
+            }
+            .deafaulting_footer{
+                h5{
+                    font-size: 23px;
+                    margin-bottom: 15px;
+                    color: $black;
+                }
+                p{
+                    font-family: 'Poppins', sans-serif;
+                    @include font(18px, 400);
+                    color: #808080;
+                    line-height: 28px;
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+
+    // .cockroach_summary {
+    //     .cockroach-head {
+    //         h3 {
+    //             font-size: 30px;
+    //             color: $black;
+    //             margin-bottom: 30px;
+    //         }
+    //     }
+
+    //     .cockroach-text {
+    //         .text-top {
+    //             font-family: 'Poppins', sans-serif;
+    //             @include font(16px, 400);
+    //             color: #808080;
+    //             line-height: 28px;
+    //             margin-bottom: 20px;
+    //         }
+
+    //         .text-bottom {
+    //             font-family: 'Poppins', sans-serif;
+    //             @include font(16px, 400);
+    //             color: #808080;
+    //             line-height: 28px;
+    //             margin-bottom: 20px;
+    //         }
+    //     }
+    // }
+
+
+    /////////////////////////////
+    // .cockroach_body_details{
+    //     .cockroach_img{
+    //         img{
+    //             border-radius: 15px;
+    //             height: 300px;
+    //         }
+    //     }
+    //     .cockroach_summary{
+    //         .cockroach-head{
+    //             h3{
+    //                 font-size: 70px;
+    //                 color: $primary;
+    //             }
+    //         }
+    //     }
+    // }
+    
+}
